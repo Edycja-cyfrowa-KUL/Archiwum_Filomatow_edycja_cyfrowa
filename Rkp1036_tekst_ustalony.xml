@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Rkp 1036</title>
+                <author>Onufry Pietraszkiewicz</author>
+                <author>Michał Rukiewicz</author>
+               
+              
+                <respStmt>
+                    
+                        <resp>Opracowanie tekstu:</resp>
+                        <name>Wojciech Kruszewski</name>
+                    
+                </respStmt>
+
+               
+
+              
+
+                <respStmt>   
+                        <resp>Kodowanie:</resp>
+                        <name>Iga Bąska</name>
+                </respStmt>
+
+               
+                <respStmt>
+                    <resp>Rewizja</resp>
+                    <name>Wojciech Kruszewski</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Archiwum Filomatów - edycja cyfrowa</authority>
+                <date>2025</date>
+                <availability>
+                    <p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+                        kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z
+                        którego pochodzą.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Polska</country>
+                        <settlement>Lublin</settlement>
+                        <repository>Biblioteka Uniwersytecka KUL</repository>
+                        <idno>Rkp 1036</idno>
+                        <msName>Utwory poetyckie</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <list>
+                                <item>Onufry Pietraszkiewicz, <hi rend="italic">[Tak płynęła, jak dziś płynie]</hi> - tekst ustalony</item>
+                                <item>Michał Rukiewicz, <hi rend="italic">[Hejże, bracia filareci]</hi> - tekst ustalony</item>
+                            </list>
+                        </summary>
+                        <textLang mainLang="pl">polski</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            
+
+                        </objectDesc>
+                        
+                    </physDesc>
+                   
+
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+
+
+
+    <text xml:id="Tak_płynęła_jak_dziś_płynie" n="Tak płynęła, jak dziś płynie">
+        <body>
+           
+            <head>[Tak płynęła, jak dziś płynie]</head>
+            
+            <lg>
+                <l>Tak płynęła, jak dziś płynie</l><lb/>
+                <l>Wisła, płowe tocząc wody,</l><lb/>
+                <l>Gdym dni pędził przy Halinie,</l><lb/>
+                <l>Chodząc po smugach za trzody.</l><lb/>
+                <l>Znikło wszystko. Tak w zaranie</l><lb/>
+                <l>Słoneczko pogodą błyska.</l><lb/>
+                <l>Nim kur ogłosił przez pianie,</l><lb/>
+                <l>Niebo gniewne gromy ciska.</l><lb/>
+                <l>Jeszcze stoi dąb wyniosły,</l><lb/>
+                <l>A na nim grucha gołąbek.</l><lb/>
+                <l>Tum ją ujrzał, robiąc wiosły,</l><lb/>
+                <l>Jak wiatr z piersi zrywał rąbek.</l><lb/>
+                <l>Wahałem się długo, śmiałek,</l><lb/>
+                <l>Czy w tej czarownej ustroni</l><lb/>
+                <l>Nie mieszka która z rusałek,</l><lb/>
+                <l>I łodkim zwieść nie śmiał z toni.</l><lb/>
+                <l>Przy nogach leżał baranek,</l><lb/>
+                <l>Jak śnieg biała na nim wełna.</l><lb/>
+                <l>Halina była z ziemianek,</l><lb/>
+                <l>Jak rusałka wdziękow pełna.</l><lb/>
+                <l>Zbliżam się ku niej ochoczo.</l><lb/>
+                <l>Wiło wianki z kwiecia dziwcze.</l><lb/>
+                <l>Wtem owce płoche uskoczą.</l><lb/>
+                <l>„Aha, wilku, aha, chciwcze!” –</l><lb/>
+                <l>Zawoła młoda Halina.</l><lb/>
+                <l>Zrywa się jak łań pierzchliwa,</l><lb/>
+                <l>A jako świeża malina</l><lb/>
+                <l>Rumieniec twarz jej okrywa.</l><lb/>
+                <l>„Wiążcie, dziwcze, w wianek kwiatki.</l><lb/>
+                <l>Jam ciąć prątki przybił wiosły</l><lb/>
+                <l>Przymcie roże i bławatki,</l><lb/>
+                <l>Co na drugim brzegu rosły”.</l><lb/>
+                <l>Ledwie stargały powicie,</l><lb/>
+                <l>Gasła przy licach farb żywość.</l><lb/>
+                <l>Nowém w życiu uczuł życie,</l><lb/>
+                <l>Czytając w jej oczach tkliwość.</l><lb/>
+                <l>Skoro ranne słońce błysło,</l><lb/>
+                <l>Farbę brały łąki rośne.</l><lb/>
+                <l>Jużem w łodce płynął Wisłą</l><lb/>
+                <l>I z Halinąm spędził wiosnę.</l><lb/>
+                <l>Kiedy plenność zbło pochyli,</l><lb/>
+                <l>Wonność się rozleje kłosa,</l><lb/>
+                <l>Słodszycheśmy chwil użyli</l><lb/>
+                <l>Niż najsłodsza z kwiatow rosa.</l><lb/>
+                <l>Chwieje się liść, krotka trwałość</l><lb/>
+                <l>Wpadnie w przepaść zapomnienia.</l><lb/>
+                <l>Gdzież przyrzeczenia, gdzież stałość?</l><lb/>
+                <l>Halino coż cię dziś zmienia?</l><lb/>
+                <l>Może się inny podoba,</l><lb/>
+                <l>Zyskał wzajemność lub zyska?</l><lb/>
+                <l>Nie powabniejsza osoba,</l><lb/>
+                <l>Lecz ma bujniejsze pastwiska.</l><lb/>
+                <l>Nie wnoś nic do mojej strzechy,</l><lb/>
+                <l>Tylko czułość, tylko wierność.</l><lb/>
+                <l>Niewinność, prostota, mierność</l><lb/>
+                <l>Rodzą sczęście i pociechy.</l><lb/>
+                <l>Jak zwarzone w upał zioła</l><lb/>
+                <l>Więdną, gdy rosa nie zleje,</l><lb/>
+                <l>Tak ja usycham wśrod sioła,</l><lb/>
+                <l>Płonne ścigając nadzieje.</l><lb/>
+                <l>Bujne niwy pożrą piaski,</l><lb/>
+                <l>Wisła pierwéj wstecz popłynie</l><lb/>
+                <l>Lub na niej porosną laski,</l><lb/>
+                <l>Niż zapomnę o Halinie.</l><lb/>
+            </lg>
+            
+            <dateline>Lublin, 1822</dateline> 
+            
+
+        </body>
+    </text>
+    <text xml:id="Hejże_bracia_filareci" n="Hejże, bracia filareci">
+        <body>
+           
+           <head>[Hejże, bracia filareci]</head>
+        
+        
+        <l>Hejże, bracia filareci,</l><lb/>
+            <l>Czerpajmy z nauk krynicy!</l><lb/>
+            <l>Niechaj dłoń nasza roznieci</l><lb/>
+            <l>Ogień w przyjaźni świątnicy.</l><lb/>
+            <l>Jej świętemi płomieniami</l><lb/>
+            <l>Niech serca goreją nasze,</l><lb/>
+            <l>A Damony, Pitijasze</l><lb/>
+            <l>Zrodzą się między Lechami,</l><lb/>
+            <l>Wskrzeszą się nasi ziomkowie,</l><lb/>
+            <l>Dzielne Leszki. Goworkowie.</l><lb/>
+            <l>A więc pod swoim sztandarem</l><lb/>
+            <l>Przyjaźń, gdy związek ten czyni,</l><lb/>
+            <l>Bracia, naszym jest zamiarem</l><lb/>
+            <l>Pracować w nauk świątyni.</l><lb/>
+            <l>Ta jej otworzy podwoje,</l><lb/>
+            <l>Ta trudy nasze nagrodzi.</l><lb/>
+            <l>Ach, ona tylko osłodzi</l><lb/>
+            <l>Tej wspolnej pomocy znoje.</l><lb/>
+            <l>A jak mężne ziomki Tela,</l><lb/>
+            <l>Złączywszy przyjazne dłonie,</l><lb/>
+            <l>Kosztują dotąd wesela</l><lb/>
+            <l>Na wolnej ojczyzny łonie,</l><lb/>
+            <l>Tak my, drogiego plemienia,</l><lb/>
+            <l>Wielkości Polakow szczątki,</l><lb/>
+            <l>Kosztując bratniego cienia,</l><lb/>
+            <l>Wskrzesiemy dziadow pamiątki.</l><lb/>
+            <l>Zawal chwały twojej wrota,</l><lb/>
+            <l>Plutusie ślepy, przed nami,</l><lb/>
+            <l>Gdyż rzadko władnie sercami</l><lb/>
+            <l>Twych podłych czcicieli cnota.</l><lb/>
+            <l>A my, biednych słodząc losy,</l><lb/>
+            <l>Wdzięcznemi zanućmy głosy:</l><lb/>
+            <l>Wesoła myśli, wesoła,</l><lb/>
+            <l>Przebywaj, przebywaj z nami!</l><lb/>
+            <l>Ożyw bratnich zabaw koła,</l><lb/>
+            <l>Gość między filaretami!</l><lb/>
+            <l>Ty, boski synu Semeli,</l><lb/>
+            <l>Niech twa dzielność nas wspomoże!</l><lb/>
+            <l>Lecz już twoj nektar weseli.</l><lb/>
+            <l>Pijmy więc, pijmy, kto może!</l><lb/>
+            <l>Niech bogacz, u zbioru swego</l><lb/>
+            <l>Więdniejąc<note n="1">Czubek poprawia tu oczywistą omyłkę.</note>, łakomstwem dycha.</l><lb/>
+            <l>My, bracia, wsparłszy bliźniego,</l><lb/>
+            <l>Wesoło chylmy kielicha!</l><lb/>
+            <l>Oto w rząd stoją puchary,</l><lb/>
+            <l>Mierzmy się, bracia, dokoła.</l><lb/>
+            <l>Temu wszyscy złożym dary,</l><lb/>
+            <l>Kto sprożnić ich więcej zdoła.</l><lb/>
+            <l>Wszak nasi dzielni przodkowie,</l><lb/>
+            <l>Co wzrost naukom nadali,</l><lb/>
+            <l>Zygmunty i Batorowie,</l><lb/>
+            <l>Z winem uciechy wskrzeszali.</l><lb/>
+            <l>Anakreon zawołany</l><lb/>
+            <l>Wesołość z puchara brał.</l><lb/>
+            <l>Przeto wielki, przeto znany,</l><lb/>
+            <l>Że się weselił i śmiał.</l><lb/>
+            <l>Żyj więc, Bachu ukochany,</l><lb/>
+            <l>Z ciebie wesołość się rodzi,</l><lb/>
+            <l>Ty wracasz czas pożądany,</l><lb/>
+            <l>Co dziś nasze troski słodzi.</l><lb/>
+            <l>Hejże, i my, filareci,</l><lb/>
+            <l>Nawzajem weseląc nas,</l><lb/>
+            <l>Łączmy serca, a zaświeci</l><lb/>
+            <l>Nieprzeżyty jeszcze czas.</l><lb/>
+            <l>Stojcie, bracia! Wśrod wesela</l><lb/>
+            <l>Wspomnijcie, kto je wam dał?</l><lb/>
+            <l>Kto jego słodycz udziela,</l><lb/>
+            <l>Kto nas złączonych mieć chciał?</l><lb/>
+            <l>Niechaj mu wije dłoń nasza</l><lb/>
+            <l>Nieśmiertelności wawrzyny,</l><lb/>
+            <l>Niech<note n="2">Koniektura Jana Czubka.</note>, mowię, imię Tomasza</l><lb/>
+            <l>Czczą ojcow przykładem syny.</l><lb/>
+            <l>Wdzięczność mu pomnik wystawi,</l><lb/>
+            <l>A przyjaźń, gdy go poświęci,</l><lb/>
+            <l>Wyryte imię zostawi</l><lb/>
+            <l>W wiecznym kościele pamięci.</l><lb/>
+            <l>Ty z górnych niebios sklepienia</l><lb/>
+            <l>Zstąp do nas, sławo skrzydlata,</l><lb/>
+            <l>Naucz potomnych wielbienia,</l><lb/>
+            <l>Którem dziś bracia czczą brata.</l><lb/>
+            <l>Gdyż wśrod czystego sumienia,</l><lb/>
+            <l>Wpośrod jedności ogniwa,</l><lb/>
+            <l>Wśrod bratnich uczuć złączenia</l><lb/>
+            <l>Twoj zapał tylko przebywa.</l><lb/>
+            <l>Bogacz, co skarby dziedziczy,</l><lb/>
+            <l>U zbioru swego przykuty,</l><lb/>
+            <l>Nie dozna twojej słodyczy,</l><lb/>
+            <l>Z uczuć szlachetnych wyzuty.</l><lb/>
+            <l>Tyran, co na biednych jęki</l><lb/>
+            <l>Nieczułe serce dziedziczy,</l><lb/>
+            <l>Co, gnębiąc, mnoży ich męki,</l><lb/>
+            <l>Wesołych dni nie policzy.</l><lb/>
+            <l>Nie dla nich w słodycz obfity,</l><lb/>
+            <l>Weselny wieniec uwity.</l><lb/>
+            <l>Ten nim jest godzien uczczenia,</l><lb/>
+            <l>Którego z cnoty zaleta,</l><lb/>
+            <l>Co w swym sposobie myślenia</l><lb/>
+            <l>Naśladuje filareta.</l><lb/>
+            <l>Hejże, bracia filareci,</l><lb/>
+            <l>Weselmy nawzajem nas!</l><lb/>
+            <l>Szlachetny się zapał nieci,</l><lb/>
+            <l>Jeszcze nie przeminął czas.</l><lb/>
+            <l>A w chlubnej losu przemianie,</l><lb/>
+            <l>Gdy się wspólną wesprzem dłonią,</l><lb/>
+            <l>Na szczeblu potęgi stanie</l><lb/>
+            <l>Przyjaźni sztandar z Pogonią.</l><lb/> </body>
+        
+    </text>
+</TEI>
+
